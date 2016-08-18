@@ -1,0 +1,17 @@
+{
+    "name": "unicaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/unicaone-bower.git"
+    },
+    "description": "Unica One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
